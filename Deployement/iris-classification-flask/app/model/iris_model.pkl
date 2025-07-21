@@ -1,0 +1,5 @@
+The file /iris-classification-flask/iris-classification-flask/app/model/iris_model.pkl is intended to store a serialized version of the trained Iris classification model. Since this file will contain binary data (the serialized model), it cannot be represented as text. Therefore, it will be created as an empty file for now, and the actual model will be saved to this file after training.
+
+Here are the contents for the file:
+
+# This file is intentionally left blank.

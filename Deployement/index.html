@@ -1,0 +1,21 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iris Flower Classification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Iris Flower Classification</h1>
+    <form id="iris-form">
+        <label>Sepal Length (cm): <input type="number" step="0.01" name="sepal_length" required></label><br>
+        <label>Sepal Width (cm): <input type="number" step="0.01" name="sepal_width" required></label><br>
+        <label>Petal Length (cm): <input type="number" step="0.01" name="petal_length" required></label><br>
+        <label>Petal Width (cm): <input type="number" step="0.01" name="petal_width" required></label><br>
+        <button type="submit">Predict</button>
+    </form>
+    <div id="result"></div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -6,7 +6,7 @@ This is a simple **Flask web app** that predicts the species of an Iris flower (
 
 ## 🚀 Demo
 
-🌐 **Live App**: < Link coming soon >  
+🌐 **Live App**: https://iris-classification-9rka.onrender.com
 
 ---
 

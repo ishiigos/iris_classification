@@ -16,3 +16,16 @@ This is a simple **Flask web app** that predicts the species of an Iris flower (
 - Clean and responsive HTML form for user input
 - Built with Flask and scikit-learn
 - Easily deployable to **Render**
+
+<!-- 🧠 Objective
+
+
+🔧 Tools & Technologies
+
+
+📁 Dataset
+
+
+
+💻 How to Run -->
+

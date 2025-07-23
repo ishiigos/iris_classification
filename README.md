@@ -50,9 +50,11 @@ The goal of this project is to demonstrate a complete machine learning workflow 
 
 ---
 
-## 💻 How to Run Locally
+## 💻 How to Run
 
-1. **Clone the repository**
+1. Render Live app: [Iris species prediction](https://iris-classification-9rka.onrender.com)
+
+2. Local run: **Clone the repository**
    ```bash
    git clone [https://github.com/your-username/iris-species-classifier.git](https://github.com/ishiigos/iris_classification.git)
    cd iris-species-classifier

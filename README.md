@@ -58,18 +58,20 @@ The goal of this project is to demonstrate a complete machine learning workflow 
    cd iris-species-classifier
    python app.py
    ```
+<pre>
 iris-species-classifier/
 │
 ├── static/
-│   └── background.jpg            # Optional background image (if used)
+│   └── background.jpg            # Optional background image used in the UI
 │
 ├── templates/
-│   └── predict.html              # Frontend form for user input
+│   └── predict.html              # HTML form for user input and prediction display
 │
-├── irisClassification.ipynb      # Jupyter notebook for model training
-├── app.py                        # Flask app file (core backend logic)
-├── Procfile             
-├── nb_model2.pkl                 # ML trained Model
-├── Category_nb.pkl               # ML trained Model
-├── requirements.txt              # Dependencies for running the app
-└── README.md                     # Project documentation
+├── irisClassification.ipynb     # Jupyter notebook for training the classification model
+├── app.py                        # Flask app with route and prediction logic
+├── Procfile                      # Required for deploying on platforms like Render/Heroku
+├── nb_model2.pkl                 # Serialized scikit-learn model (Naive Bayes or similar)
+├── Category_nb.pkl               # Label encoder or category encoder used with the model
+├── requirements.txt              # List of Python dependencies
+└── README.md                     # Project documentation (this file)
+</pre>

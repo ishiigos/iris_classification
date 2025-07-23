@@ -30,7 +30,7 @@ The goal of this project is to demonstrate a complete machine learning workflow 
 
 - **Name**: Iris Flower Dataset
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-- **Kaggle**: https://www.kaggle.com/datasets/ishiigoswami/iris-flower-specifications/data
+- **Kaggle**: [Iris dataset](https://www.kaggle.com/datasets/ishiigoswami/iris-flower-specifications/data)
 - **Features**:
   - Sepal Length (cm)
   - Sepal Width (cm)

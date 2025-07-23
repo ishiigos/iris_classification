@@ -58,6 +58,7 @@ The goal of this project is to demonstrate a complete machine learning workflow 
    cd iris-species-classifier
    python app.py
    ```
+## 💻 Project structure
 <pre>
 iris-species-classifier/
 │
@@ -75,3 +76,27 @@ iris-species-classifier/
 ├── requirements.txt              # List of Python dependencies
 └── README.md                     # Project documentation (this file)
 </pre>
+
+## 🛠️ Future Enhancements
+<ul>
+  <li>Add prediction confidence scores</li>
+  <li>Support batch uploads (CSV input)</li>
+  <li>Improve UI/UX with CSS frameworks like Bootstrap or Tailwind</li>
+  <li>Enable logging and error tracking</li>
+  <li>Convert to a REST API with JSON input/output support</li>
+  <li>Integrate model explainability with SHAP or LIME</li>
+  <li>Dockerize for scalable deployment</li>
+</ul>
+
+## 🙏 Acknowledgements
+<ul>
+  <li>
+    <strong>Dataset:</strong> 
+    <a href="https://archive.ics.uci.edu/dataset/53/iris" target="_blank">
+      UCI Machine Learning Repository – Iris Data Set
+    </a> (Public Domain)
+  </li>
+  <li><strong>Author:</strong> R.A. Fisher, 1936</li>
+  <li><strong>Tools Used:</strong> Flask, Scikit-learn, Jupyter, Render</li>
+  <li><strong>Deployed with:</strong> <a href="https://render.com" target="_blank">Render</a></li>
+</ul>

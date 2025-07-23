@@ -54,5 +54,22 @@ The goal of this project is to demonstrate a complete machine learning workflow 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/iris-species-classifier.git
+   git clone [https://github.com/your-username/iris-species-classifier.git](https://github.com/ishiigos/iris_classification.git)
    cd iris-species-classifier
+   python app.py
+   ```
+iris-species-classifier/
+│
+├── static/
+│   └── background.jpg            # Optional background image (if used)
+│
+├── templates/
+│   └── predict.html              # Frontend form for user input
+│
+├── irisClassification.ipynb      # Jupyter notebook for model training
+├── app.py                        # Flask app file (core backend logic)
+├── Procfile             
+├── nb_model2.pkl                 # ML trained Model
+├── Category_nb.pkl               # ML trained Model
+├── requirements.txt              # Dependencies for running the app
+└── README.md                     # Project documentation

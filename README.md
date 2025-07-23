@@ -58,6 +58,9 @@ The goal of this project is to demonstrate a complete machine learning workflow 
    cd iris-species-classifier
    python app.py
    ```
+
+--- 
+
 ## 💻 Project structure
 <pre>
 iris-species-classifier/
@@ -77,6 +80,8 @@ iris-species-classifier/
 └── README.md                     # Project documentation (this file)
 </pre>
 
+---
+
 ## 🛠️ Future Enhancements
 <ul>
   <li>Add prediction confidence scores</li>
@@ -88,6 +93,7 @@ iris-species-classifier/
   <li>Dockerize for scalable deployment</li>
 </ul>
 
+--- 
 ## 🙏 Acknowledgements
 <ul>
   <li>
